@@ -1,3 +1,4 @@
+- hey, all is true...
 - 👋 Hi, I’m @Carlos-Nasgul, 
 - 👀 I’m interested in devevelop but i am just starting a few months ago!
 - 🌱 I’m currently learning html, css & javascript, además de nociones de nodesjs y por supuesto git & github
